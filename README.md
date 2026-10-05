@@ -65,6 +65,7 @@ By integrating performance-driven paid advertising, strategic content creation, 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="80%">
 </div>
 
+
 ## 🎓 Academic Context
 
 This project is supervised under the academic guidance of:
