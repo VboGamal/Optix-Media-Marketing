@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="80%">
 </div>
 
-## 🚀 About Us
+## About Us
 
 **Optix Media** is a digital growth agency dedicated to empowering startups and emerging brands. We believe that effective marketing bridges the gap between **scroll-stopping visuals** and **predictable revenue**.
 
@@ -49,7 +49,7 @@ By integrating performance-driven paid advertising, strategic content creation, 
 ### 🔍 Interactive Roles (Click to expand)
 
 <details>
-<summary><b>✨ View Team Superpowers</b></summary>
+<summary><b>View Team Superpowers 🦾 </b></summary>
 <br>
 <ul>
   <li><b>Ahmad:</b> Overviews the operational pipeline, ensures maximum quality, and integrates high-end 3D visual setups.</li>
