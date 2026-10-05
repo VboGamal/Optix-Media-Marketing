@@ -1,1 +1,1 @@
-# Optix-Media-Marketing
+# Optix Media Marketing
