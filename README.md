@@ -14,4 +14,4 @@ By integrating performance-driven paid advertising, strategic content creation, 
 | Habiba Reda  | Client Research & Workflow Assistant |
 
 
-Lecturer: dr/ Tamer Elmoghazy
+Lecturer: Dr/ Tamer Elmoghazy
